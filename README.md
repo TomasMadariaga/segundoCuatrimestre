@@ -1,2 +1,3 @@
 # segundoCuatrimestre
-En este curso aprendemos desarrollo web full stack, programacion y FIP
+En este curso aprendemos desarrollo web full stack, programacion y fip
+
